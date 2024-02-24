@@ -1,4 +1,4 @@
-R.N #1, Don't involve developing with politics!
+<div dir="rtl">زندگی هیچوقت به کام نیست...</div>
 
 ```C#
 private static readonly 
