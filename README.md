@@ -2,6 +2,6 @@
 
 ```C#
 private static readonly 
-    Lazy<LazyRamtin> LazyRamtinIsHere =
+    Lazy<Ramtin> LazyRamtinIsHere =
         new(() => new());
 ```
