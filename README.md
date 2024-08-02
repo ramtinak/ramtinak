@@ -1,4 +1,4 @@
-<div dir="rtl">زندگی هیچوقت به کام نیست...</div>
+<div dir="rtl">حس زنده بودن نیست...</div>
 
 ```C#
 private static readonly 
