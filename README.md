@@ -9,7 +9,7 @@
 
 ```C#
 private static readonly 
-    Lazy<Ramtin> LazyRamtinIsHere =
+    Lazy<Ramtin> IsHere =
         new(() => new());
 ```
 ![Ramtinak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramtinak&show_icons=true&theme=radical)
