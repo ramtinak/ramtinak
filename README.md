@@ -2,9 +2,7 @@
 [![Telegram Contact](https://img.shields.io/badge/-Telegram-2CA5E0?style=social&logo=telegram&logoColor=blue)](https://t.me/ramtinjokar)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramtinak@live.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ramtinjokar@outlook.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramtinak?style=social)](https://twitter.com/ramtinak)
 [![Visitors](https://komarev.com/ghpvc/?username=ramtinak&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ramtinak)
-
 <div dir="rtl">سالی که نکوست از بهارش پیداست....</div>
 
 ```C#
